@@ -1,0 +1,13 @@
+.progress {
+	margin: 1rem 1rem 1rem 1rem;
+}
+
+.title-skill{
+	padding-bottom: 2rem;
+}
+
+.social-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
